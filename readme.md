@@ -9,7 +9,14 @@ Run demo
 npm run demo
 ```
 
-![fire](https://raw.githubusercontent.com/YaroslavGaponov/termonfire/master/example/fire.gif "terminfire")
+or
+
+```
+cd example
+node fire.js
+```
+
+![fire](https://raw.githubusercontent.com/sentientmachine/termonfire/master/example/termonfire_demo.gif "terminfire")
 
 
 Example
